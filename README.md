@@ -21,40 +21,40 @@ Protocal #'s per MCPE version
 |  v0.14.0.5  |  43  |
 |  v0.14.0.4  |  43  |
 |  v0.14.0.3  |  42  |
-|  v0.14.0.2  |      |
+|  v0.14.0.2  |   NA   |
 |  v0.14.0.1  |  41  |
-|  v0.13.2.0  |   |
-|  v0.13.0.4  | Content Cell  |
-|  v0.13.0.3  | Content Cell  |
-|  v0.13.0.2  | Content Cell  |
-|  v0.13.0.1  | Content Cell  |
-|  v0.11.0.14  | Content Cell  |
-|  v0.11.0.11  | Content Cell  |
-|  v0.11.0.8  | Content Cell  |
-|  v0.11.0.7  | Content Cell  |
-|  v0.11.0.5  | Content Cell  |
-|  v0.11.0.4  | Content Cell  |
-|  v0.11.0.1  | Content Cell  |
-|  v0.10.0.6  | Content Cell  |
-|  v0.10.0.1  | Content Cell  |
-|  v0.9.5.0  | Content Cell  |
-|  v0.9.0.12  | Content Cell  |
-|  v0.9.0.7  | Content Cell  |
-|  v0.9.0.2  | Content Cell  |
-|  v0.8.1.0  | Content Cell  |
-|  v0.7.4.0  | Content Cell  |
-|  v0.7.0.0  | Content Cell  |
-|  v0.6.1.0  | Content Cell  |
-|  v0.6.0.0  | Content Cell  |
-|  v0.5.0.0  | Content Cell  |
-|  v0.4.0.0  | Content Cell  |
-|  v0.3.3.0  | Content Cell  |
-|  v0.3.2.0  | Content Cell  |
-|  v0.3.0.0  | Content Cell  |
-|  v0.2.2.0  | Content Cell  |
-|  v0.2.1.0  | Content Cell  |
-|  v0.2.0.0  | Content Cell  |
-|  v0.1.3.0  | Content Cell  |
-|  v0.1.2.0  | Content Cell  |
-|  v0.1.1.0  | Content Cell  |
-|  v0.1.0.0  | Content Cell  |
+|  v0.13.2.0  |  39  |
+|  v0.13.0.4  |  38  |
+|  v0.13.0.3  |  38  |
+|  v0.13.0.2  |  37  |
+|  v0.13.0.1  |  37  |
+|  v0.11.0.14  |  27  |
+|  v0.11.0.11  |  26  |
+|  v0.11.0.8  |  25  |
+|  v0.11.0.7  |  24  |
+|  v0.11.0.5  |  23  |
+|  v0.11.0.4  |  22  |
+|  v0.11.0.1  |  21  |
+|  v0.10.0.6  |  20  |
+|  v0.10.0.1  |  19  |
+|  v0.9.5.0  |  18  |
+|  v0.9.0.12  |  17  |
+|  v0.9.0.7  |  16  |
+|  v0.9.0.2  |  15  |
+|  v0.8.1.0  |  14  |
+|  v0.7.4.0  |  12  |
+|  v0.7.0.0  |  11  |
+|  v0.6.1.0  |  9  |
+|  v0.6.0.0  |  9  |
+|  v0.5.0.0  |  8  |
+|  v0.4.0.0  |  7  |
+|  v0.3.3.0  |  6  |
+|  v0.3.2.0  |  5  |
+|  v0.3.0.0  |  4  |
+|  v0.2.2.0  |  3  |
+|  v0.2.1.0  |  3  |
+|  v0.2.0.0  |  2  |
+|  v0.1.3.0  |  NA  |
+|  v0.1.2.0  |  NA  |
+|  v0.1.1.0  |  NA  |
+|  v0.1.0.0  |  NA  |
