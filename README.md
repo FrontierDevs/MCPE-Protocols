@@ -1,7 +1,7 @@
 # MCPE-Protocols
 Protocal #'s per MCPE version
 Minecraft version	 Protocol version
-v1.0.4.1	               102
+v1.0.4.1	        |       102
 v1.0.3.0	               101
 v1.0.0.0	               100
 v0.17.0.2	                92
